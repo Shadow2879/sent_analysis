@@ -1,0 +1,1 @@
+A project to perform simple sentiment analysis on twitter messages.
